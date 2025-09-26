@@ -78,17 +78,19 @@ Tools/LLMs for Video Generation:
 # Results :
 
 1 :
-https://github.com/user-attachments/assets/b6efd483-85e0-4078-8b6e-4e393c420e02
+https://app.pixverse.ai/home?detail=show&id=361967698177328&platform=web
 
 2 :
-https://github.com/user-attachments/assets/bfaf2bc5-d67b-47ed-857e-6f5ea81bae38
+https://app.pixverse.ai/home?detail=show&id=361968132676151&platform=web
 
 3 :
-"C:\Users\admin\Downloads\PixVerse_V5_Image_Text_360P_A_3D_animation_of_.mp4"
+https://app.pixverse.ai/home?detail=show&id=361968604314168&platform=web
 
+4 :
+https://app.pixverse.ai/home?detail=show&id=361969517431915&platform=web
 
-
-
+5 :
+https://hailuoai.video/share/ai-video/QAo8APz2Rqq3?source-scene=shared&source-media=shared_link
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
