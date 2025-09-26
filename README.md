@@ -75,5 +75,19 @@ Tools/LLMs for Video Generation:
 
 ```
 
+# Results :
+1 :
+https://github.com/user-attachments/assets/b6efd483-85e0-4078-8b6e-4e393c420e02
+
+2 :
+https://github.com/user-attachments/assets/bfaf2bc5-d67b-47ed-857e-6f5ea81bae38
+
+3 :
+
+
+
+
+
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
