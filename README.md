@@ -76,6 +76,7 @@ Tools/LLMs for Video Generation:
 ```
 
 # Results :
+
 1 :
 https://github.com/user-attachments/assets/b6efd483-85e0-4078-8b6e-4e393c420e02
 
@@ -83,7 +84,7 @@ https://github.com/user-attachments/assets/b6efd483-85e0-4078-8b6e-4e393c420e02
 https://github.com/user-attachments/assets/bfaf2bc5-d67b-47ed-857e-6f5ea81bae38
 
 3 :
-
+"C:\Users\admin\Downloads\PixVerse_V5_Image_Text_360P_A_3D_animation_of_.mp4"
 
 
 
