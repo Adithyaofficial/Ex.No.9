@@ -1,6 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
 # Date : 26.09.2025
+# Name : ADITYAH M S
 # Reg. No. : 212223220002
 
 # Aim:
